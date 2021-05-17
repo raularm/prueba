@@ -1,0 +1,11 @@
+<center>
+<h1> this is the biggest tittle</h1>
+<h2> this type of tags go from h1 to h6 <br> being the
+biggest and the h6 the smallest </h2>
+<br>
+<!-- we can also add comments like this --!>
+<br> <!-- BR is a tag that makes a like of space --!>
+<hr>
+<!-- hr means horizontal rule, it makes a horizontal
+line in the text, we can also --!>
+<center>
